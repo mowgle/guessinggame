@@ -1,5 +1,5 @@
 Project: make a *guessing game* using Unix. Part of the Unix workbench course on Coursera.
 This makefile command was run on...
-Sat 10 Oct 2020 21:42:24 BST
+Sat 10 Oct 2020 21:51:23 BST
 the number of lines of code that the script guessinggame.sh has is...
       46
